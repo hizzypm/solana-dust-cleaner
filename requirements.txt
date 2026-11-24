@@ -1,0 +1,6 @@
+solana
+solders
+python-dotenv
+colorama
+tabulate
+requests
